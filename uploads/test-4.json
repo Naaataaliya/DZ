@@ -1,0 +1,52 @@
+[
+    {
+        "question" :"вопросы", "items" : [
+            {
+            "quest":"В 1 кг сколько грамм?", "answers":
+            [
+                {
+                    "answer": "10",
+                    "result": false
+                },
+                {
+                    "answer": "1000",
+                    "result": true
+                },
+                {
+                    "answer": "100000",
+                    "result": false
+                }
+            ]},{
+            "quest":"В 1 грамме сколько кг", "answers": [
+                {
+                    "answer": "0,001",
+                    "result": true
+                },
+                {
+                    "answer": "0,01",
+                    "result": false
+                },
+                {
+                    "answer": "1",
+                    "result": false
+                }
+            ]},{
+             "quest":"Сколько кг в 1 тонне?", "answers": [
+                {
+                    "answer": "200",
+                    "result": false
+                },
+                {
+                    "answer": "300",
+                    "result": false
+                },
+                {
+                    "answer": "1000",
+                    "result": true
+                }
+            ]    
+
+            }
+        ]
+    }
+]

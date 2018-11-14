@@ -1,0 +1,54 @@
+[
+    {
+        "question" :"Примеры", "items" : [
+        {
+            "quest":"2+2=?", "answers":
+        [
+            {
+                "answer": "2",
+                "result": false
+            },
+            {
+                "answer": "4",
+                "result": true
+            },
+            {
+                "answer": "5",
+                "result": false
+            }
+        ]},{
+            "quest":"2*2=?", "answers":
+            [
+                {
+                    "answer": "6",
+                    "result": false
+                },
+                {
+                    "answer": "22",
+                    "result": false
+                },
+                {
+                    "answer": "4",
+                    "result": true
+                }
+            ]},{
+            "quest":"1+1+1-1?", "answers":
+            [
+                {
+                    "answer": "3",
+                    "result": false
+                },
+                {
+                    "answer": "2",
+                    "result": true
+                },
+                {
+                    "answer": "1111",
+                    "result": false
+                }
+            ]}
+
+    ]
+    }
+]
+
